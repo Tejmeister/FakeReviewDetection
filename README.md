@@ -3,10 +3,15 @@ A majority of customers rely on the review of the product on the websites which 
 
 DATA SET DESCRIPTION
 The dataset consists of reviews on hotels.
+
 The dataset is imported and stored in three columns: 
+
 ●	Polarity of the review
+
 ●	Review itself
+
 ●	True or Deceptive as ('t' or 'd')
+
 
 DESCRIPTION OF FEATURES SELECTED AND PRE-PROCESSING
 The true value 't' is converted to 1 and deceptive value 'd' to 0 because they will be used as target value and the review as feature.
